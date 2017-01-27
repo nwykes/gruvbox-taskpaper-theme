@@ -1,0 +1,17 @@
+Gruvbox Taskpaper 3 Theme:
+	based on gruvbox by morhetz https://github.com/morhetz/gruvbox
+	with inspiration from https://github.com/Behinder/Taskpaper/blob/master/NovaInspired-theme/NovaInspired.less
+	and also from http://mattgemmell.com/taskpaper-3/
+Project:
+	- This is a task
+	- This is a task with a link https://github.com/nwykes
+	- Do this one today @today
+	- Here's an important one @flag
+	- Already completed this one @done
+	- One in the future @due(2017-02-28)
+Priorites:
+	- This is an important one  @priority(high)
+	- This one not so much @priority(low)
+[Searches]:
+	- Flagged @search(not @done and @flag)
+	- High Priority @search(@priority = high)
